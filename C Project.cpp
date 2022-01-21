@@ -1,7 +1,5 @@
-/*Programmer: Godfrey Stewart  - 0802237
-  Module:  	  Intermediate Programming Using C
-  Group:      Thursday 8am - 10am
- Tutor:       Mrs A. Penrose-Whitticker  
+/*Programmer: Alwayne Bailey 
+
 
 Username: admin             
 Password: pass              */ 
