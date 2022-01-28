@@ -1,10 +1,3 @@
-/*Programmer: Alwayne Bailey 
-
-
-Username: admin             
-Password: pass              */ 
-
-
 //_________________PRE-PROCESSOR DIRECTIVES_____________________________________
 #include <stdio.h>
 #include <conio.h>
@@ -67,7 +60,7 @@ system("color 03"); //Display the words in Aqua.
                    "\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD]\n\n"
                    "\t\tCastle Amusement Company Limited Management System v1.0   "
                    "\n\n                                           "
-                   "\n\n\t           Created By:Godfrey Stewart "
+                   "\n\n\t           Created By:Alwayne Bailey  "
                    "\n\n\t[\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD"
                    "\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD"
                    "\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD"
