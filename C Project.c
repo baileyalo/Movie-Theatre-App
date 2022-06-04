@@ -46,14 +46,14 @@ int main(void)    //start main
    
 	OpenScreen();
 	return 0;
-}		 //end main
+}		   //end main
 
 void OpenScreen()
 {
 
      char menuChoice;
 
-system("color 03"); //Display the words in Aqua.
+system("color 03");    //Display the words in Aqua.
  printf("\n\n\t[\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD"
                    "\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD"
                    "\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD\xCD"
@@ -136,8 +136,10 @@ void Welcome_Menu(void)
          //sleep(1);
          printf("\n\t\t\tINVALID OPTION!!");
       	 sleep(2);  
+
 	     printf("\n\n\t I'M SORRY, YOU ARE NOT GRANTED ACCESS TO A MENU...");  //This is displayed when the three attempts fails
          sleep(1);
+
       	 printf("\n\n\t\t\tPlease try again.");
       	 sleep(2000); //Pauses operations for 2 seconds.
          system("cls");
